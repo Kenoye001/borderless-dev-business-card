@@ -1,0 +1,24 @@
+body{
+    margin: 20px;
+    
+}
+.BCimage{
+    width: 150px;
+
+}
+.card{
+    border:1px dotted rgb(206, 149, 58);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0px auto;
+     
+    text-align: center;
+    background-color:rgb(194, 109, 83);
+    border-bottom: 6px solid rgb(181, 95, 74);
+    
+}
+.bordercolor{
+    border:1px dotted rgb(206, 149, 58);    
+}
