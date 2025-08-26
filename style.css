@@ -4,6 +4,7 @@ body{
 }
 .BCimage{
     width: 150px;
+    box-shadow: 2px 2px rgb(32, 24, 24);
 
 }
 .card{
